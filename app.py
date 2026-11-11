@@ -14,7 +14,7 @@ from inference import FruitClassifier
 
 # ===================== KONFIGURASI (silakan ubah) =====================
 JUDUL = "Klasifikasi Jenis Buah"
-SUBJUDUL = "Proyek Akhir Kecerdasan Buatan - CNN buatan sendiri (tanpa transfer learning)"
+SUBJUDUL = "Proyek Akhir Kecerdasan Buatan - CNN (tanpa transfer learning)"
 INFO_MODEL = {                                # isi dengan angka hasil notebook-mu
     "Jumlah kelas": "50 jenis buah",
     "Akurasi uji": "79,76% (dengan TTA)",
